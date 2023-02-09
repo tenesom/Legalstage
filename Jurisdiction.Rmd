@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-***This post is showing the meaning of Jurisdiction, attached with Court's judgement as reference,it useful in legal matters in Tanzania.***
+***This post is showing the meaning of Jurisdiction, attached with Court's judgement as reference, it's useful in legal matters in Tanzania.***
 
 **JURISDICTION**
 
@@ -59,13 +59,13 @@ All land cases now fall under the exclusive jurisdiction of the Land and Housing
 
 Writing on such rules in common law jurisdictions, Elmer Driedger, in his Construction of Statutes (Toronto: Butterworths, 1983, p. 1), observes:
 
-“The notion has long prevailed that three different rules or approaches may be employed in ascertaining the meaning of a statute. First, there is said to be the **‘purpose’** **approach** or **‘mischief rule’**…. Then there is said to be the ***‘literal’*** approach or ***‘plain meaning’ rule*** …. Finally there is what is called the ***‘golden rule’.”***
+“The notion has long prevailed that three different rules or approaches may be employed in ascertaining the meaning of a statute. First, there is said to be the **‘purpose’** **approach** or **‘mischief rule’**…. Then there is said to be the ***‘literal’*** approach or ***‘plain meaning’ rule***. Finally there is what is called the ***‘golden rule’.”***
 
-In Renada Minerals Corporation vs. Consolidated Holding Corporation & Anor, High Court of Tanzania at Arusha Civil Case No. 52 of 1999 (unreported). In that case, **Rutakangwa, J.** **(as he then was), held that section 13 of the CPC is a rule of procedure and not of jurisdiction and, as such, cannot be construed to take away the jurisdiction of this court to entertain matters simply because it requires suits to be instituted in the lowest court competent to try it. His Lordship stated as follows (after citing with approval Mulla on The Code of Civil Procedure, 16th edition):**
+In Renada Minerals Corporation vs. Consolidated Holding Corporation & Anor, High Court of Tanzania at Arusha, Civil Case No. 52 of 1999 (unreported). In that case, **Rutakangwa, J.** **(as he then was), held that section 13 of the CPC is a rule of procedure and not of jurisdiction and, as such, cannot be construed to take away the jurisdiction of this court to entertain matters simply because it requires suits to be instituted in the lowest court competent to try it. His Lordship stated as follows (after citing with approval Mulla on The Code of Civil Procedure, 16th edition):**
 
 ***“It is my holding therefore, that s. 13 of the CPC 1966 does not oust the jurisdiction of this court in respect of suits of this nature which by their monetary value ought to be commenced in the district or even in the primary courts. If by sheer inadvertence or for the sake of convenience a plaintiff institutes a suit of this nature which by virtue of s. 13 of the CPC 1966 as a matter of procedure and policy ought to have been instituted in one of the two subordinate courts, this court, has the option of either returning the plaint to the plaintiff under Order VII rule 10 of the CPC 1966 or trying and determining the same.” [emphasis mine].***
 
-The decision of the Court of Appeal in Tanzania China Friendship Textile Mill vs. Our Lady of the Usambara Sisters [2006] held that **the High Court did not have jurisdiction to determine civil suits in which the quantum for damages sought fell within the pecuniary jurisdiction of District Courts and Courts of Resident Magistrates.** ***The effect of that decision is to exclude the option of applying Order VII rule 10 of the CPC, which would have allowed this court to either try the case itself, or return the plaint to the plaintiff for filing in a registry of a competent subordinate court. The only remaining option, following Usambara Sisters, is to strike out the suit.***
+The decision of the Court of Appeal in Tanzania China Friendship Textile Mill vs. Our Lady of the Usambara Sisters [2006] held that, **the High Court did not have jurisdiction to determine civil suits in which the quantum for damages sought fell within the pecuniary jurisdiction of District Courts and Courts of Resident Magistrates.** ***The effect of that decision is to exclude the option of applying Order VII rule 10 of the CPC, which would have allowed this court to either try the case itself, or return the plaint to the plaintiff for filing in a registry of a competent subordinate court. The only remaining option, following Usambara Sisters, is to strike out the suit.***
 
 **Related Posts:**
 
